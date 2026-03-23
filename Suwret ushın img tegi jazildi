@@ -16,6 +16,8 @@
         <a href="#">Pánler</a>
         <a href="#">Biz haqımızda</a>
         <hr>
-        <h1>Biziñ zamanagóy mektebimozge xosh keldiñiz</h1>
+        <h1>Biziñ zamanagóy mektebimizge xosh kelipsiz</h1>
+        <img src="school.jpg" alt="Mektep"
+        width="340">
     </body>
 </html>
