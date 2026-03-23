@@ -1,15 +1,24 @@
-a{
-  font-family:sans-serif;
-  margin-right:15px;
-  color:black;
-  text-decoration:none;
-  font-size:18px;
-  font-weight:500;
-}
-.logo{
-    font-size:22px;
-    font-weight:700;
-}
 h1{
-  font-family:sans-serif;
+    font-family: Arial;
+    font-size: 28px;
+    font-wieght: 700;
+    text-align: center
+}
+p{
+    font-family: monospace;
+    font-size: 22px;
+    font-wieght:500
+}
+button{
+    font-family: Arial;
+    font-size: 18px;
+    font-wieght: 500;
+    padding: 7px 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+logo{
+    color:green;
 }
